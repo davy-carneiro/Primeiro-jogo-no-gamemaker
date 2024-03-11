@@ -1,0 +1,51 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "projeto de jogo",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Conjuntos de tiles","folderPath":"folders/Conjuntos de tiles.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sons","folderPath":"folders/Sons.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Caminhos","folderPath":"folders/Caminhos.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fontes","folderPath":"folders/Fontes.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Linhas do tempo","folderPath":"folders/Linhas do tempo.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objetos","folderPath":"folders/Objetos.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Cenas","folderPath":"folders/Cenas.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequências","folderPath":"folders/Sequências.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Curvas da animação","folderPath":"folders/Curvas da animação.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Anotações","folderPath":"folders/Anotações.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensões","folderPath":"folders/Extensões.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.8.2.108",
+  },
+  "resources": [
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},},
+    {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
+    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"room0","path":"rooms/room0/room0.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
